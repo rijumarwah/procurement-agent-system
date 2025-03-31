@@ -1,6 +1,8 @@
 # autogen4ey
 
-Examples:
+# Examples:
+
+- First run main_groupchat.py
 
 Reporting: Generate a report of total billed per vendor
 
